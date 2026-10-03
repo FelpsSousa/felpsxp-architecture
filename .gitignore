@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+*.tsbuildinfo
+
+# Test artifacts
+coverage/
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+
+# Personal process notes, never published
+CLAUDE.local.md
